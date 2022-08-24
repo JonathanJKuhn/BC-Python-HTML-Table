@@ -1,0 +1,10 @@
+.table {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+thead {
+    background-color: #1f2022;
+    color: #008ebd;
+}
